@@ -39,7 +39,7 @@ csv
 
 Clone the repository and navigate to the project directory:
 
-git clone https://github.com/bhrainy-byte/PRODIGY_CS_05/edit/advanced-packet-sniffer.git
+https://github.com/bhrainy-byte/PRODIGY_CS_05.git
 
  cd advanced-packet-sniffer
 
